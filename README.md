@@ -1,5 +1,4 @@
 # Google App Script Helper
----
 This will become a collection of wonderful Google App Scripts that can make life hella easier. 
 
 ## Mailchimp Email Activity (MC-emailActivity.js)
